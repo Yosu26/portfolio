@@ -10,3 +10,4 @@ As an aspiring Machine Learning and AI Engineer with a passion for solving compl
 - Passion for Innovation: I am committed to staying at the forefront of AI and machine learning, continuously learning and applying the latest advancements to solve challenging problems. Whether it's building predictive models, designing intelligent systems, or working with generative AI, I’m eager to contribute my skills and enthusiasm to your team.
 
 # Featured Projects:
++ [FoodVision](https://github.com/Yosu26/FoodVision)
